@@ -1,0 +1,1 @@
+/home/kali/School/component_study/study/resources/vulns/memory-corruption/command/target/wasm32-wasip1/release/command.wasm: /home/kali/School/component_study/study/resources/vulns/memory-corruption/command/src/bindings.rs /home/kali/School/component_study/study/resources/vulns/memory-corruption/command/src/main.rs

@@ -1,0 +1,1 @@
+/home/kali/School/component_study/study/resources/vulns/leaked-handle/command/target/wasm32-wasip1/release/command.wasm: /home/kali/School/component_study/study/resources/vulns/leaked-handle/command/src/bindings.rs /home/kali/School/component_study/study/resources/vulns/leaked-handle/command/src/main.rs

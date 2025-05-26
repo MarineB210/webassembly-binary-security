@@ -1,0 +1,1 @@
+/home/kali/School/component_study/study/resources/vulns/leaked-handle/resource-caller/target/wasm32-wasip1/release/resource_caller.wasm: /home/kali/School/component_study/study/resources/vulns/leaked-handle/resource-caller/src/bindings.rs /home/kali/School/component_study/study/resources/vulns/leaked-handle/resource-caller/src/lib.rs

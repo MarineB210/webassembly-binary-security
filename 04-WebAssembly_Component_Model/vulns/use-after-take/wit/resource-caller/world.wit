@@ -1,0 +1,24 @@
+// wit/resource-caller/world.wit
+package resources:caller@0.1.0;
+
+interface create-resource {
+    resource buffer {
+        constructor();
+        write: func(data: list<u8>);
+        read: func() -> list<u8>;
+    }
+}
+
+interface operate-buffer {
+    check-buffer: func();
+    modify-buffer: func(value: u32);
+}
+
+world use-resource {
+    import resources:creator/create-resource@0.1.0;
+    export operate-buffer;
+}
+
+world app {
+    import operate-buffer;
+}

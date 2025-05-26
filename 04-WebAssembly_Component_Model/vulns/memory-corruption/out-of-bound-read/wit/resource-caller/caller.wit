@@ -1,0 +1,15 @@
+package resources:creator@0.1.0;
+
+interface operate-buffer {
+    modify-buffer: func();
+}
+
+world use-resource {
+    import create-resource;
+    export operate-buffer;
+}
+
+world app {
+    import create-resource;
+    import operate-buffer;
+}

@@ -1,0 +1,15 @@
+// wit/legitimate/world.wit
+package exploit:legitimate;
+
+interface victim {
+    victim: func();
+}
+
+world legitimate-world {
+    export victim;
+    import exploit:evil/malicious;
+}
+
+world app {
+    import victim;
+}

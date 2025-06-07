@@ -1,0 +1,1 @@
+/home/kali/School/component_study/c-rust/calculator/target/wasm32-wasip1/debug/calculator.wasm: /home/kali/School/component_study/c-rust/calculator/src/bindings.rs /home/kali/School/component_study/c-rust/calculator/src/lib.rs

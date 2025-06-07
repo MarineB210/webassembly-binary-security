@@ -1,0 +1,11 @@
+// wit/evil/world.wit
+package exploit:evil;
+
+interface malicious {
+    malicious: func(buffer: u64);
+}
+
+world evil-world {
+    export malicious;
+}
+

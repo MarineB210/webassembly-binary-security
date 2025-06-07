@@ -1,0 +1,2 @@
+cargo:rustc-link-lib=static=wit_bindgen_cabi0_42_1
+cargo:rustc-link-search=native=/home/kali/School/component_study/overflow/test6/command/target/wasm32-wasip1/release/build/wit-bindgen-rt-969a70ae7bdb58b0/out

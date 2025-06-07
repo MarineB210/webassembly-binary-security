@@ -1,0 +1,10 @@
+// wit/evil/world.wit
+package exploit:evil;
+
+interface malicious {
+    malicious: func() -> list<u8>;
+}
+
+world evil-world {
+    export malicious;
+}

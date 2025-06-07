@@ -1,0 +1,15 @@
+// wit/resource-caller/creator.wit
+package resources:creator@0.1.0;
+
+interface create-resource {
+    resource buffer {
+        constructor();
+        write: func(data: list<u8>);
+        read: func() -> list<u8>;
+    }
+
+}
+
+world expose-resource {
+    export create-resource;
+}

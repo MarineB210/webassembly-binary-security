@@ -1,0 +1,1 @@
+/home/kali/School/component_study/c-rust/command/target/wasm32-wasip1/debug/command.wasm: /home/kali/School/component_study/c-rust/command/src/bindings.rs /home/kali/School/component_study/c-rust/command/src/main.rs

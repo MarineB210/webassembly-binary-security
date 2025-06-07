@@ -1,0 +1,1 @@
+/home/kali/School/component_study/overflow/test6/command/target/wasm32-wasip1/release/command.wasm: /home/kali/School/component_study/overflow/test6/command/src/bindings.rs /home/kali/School/component_study/overflow/test6/command/src/main.rs
